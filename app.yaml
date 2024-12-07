@@ -1,6 +1,7 @@
-runtime: custom
-env: flex
+runtime: nodejs20
 entrypoint: npm start
+
+service: backend
 
 env_variables:
   PROJECT_ID: submissionmlgc-ezranatanael
