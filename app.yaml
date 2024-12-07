@@ -1,0 +1,7 @@
+runtime: custom
+env: flex
+entrypoint: npm start
+
+env_variables:
+  PROJECT_ID: submissionmlgc-ezranatanael
+  MODEL_URL: https://storage.googleapis.com/melly-model-mlgc-ezra/model.json
